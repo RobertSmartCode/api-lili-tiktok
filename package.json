@@ -1,0 +1,17 @@
+{
+  "name": "tiktok-event-express",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2"
+  },
+  "description": "Este proyecto implementa una función serverless en Vercel para enviar eventos directamente a la API de TikTok desde el backend.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
